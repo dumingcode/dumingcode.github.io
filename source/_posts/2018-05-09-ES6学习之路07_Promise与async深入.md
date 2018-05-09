@@ -1,6 +1,6 @@
 ---
 title: ES6学习之路07_Promise与async深入
-tags: [ES6，nodejs]
+tags: [ES6,nodejs]
 ---
 # ES6-学习之路-07 async Promise深入
 继续深入对js异步操作的学习，主要针对async和await。
